@@ -1,6 +1,6 @@
 # Healtcare Website 
 
-Visit the Website: https://codekj09.github.io/Healtcare/
+Visit the Website: https://codekj09.github.io/Healthcare/
 
 ## Overview
 
